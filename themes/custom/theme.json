@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#191622",
+        "Base": "#13111B",
+        "BrightText": "#ff0000",
+        "Button": "#373743",
+        "ButtonText": "#E1E1E6",
+        "Highlight": "#44475A75",
+        "HighlightedText": "#E1E1E6",
+        "Link": "#988bc7",
+        "Text": "#E1E1E6",
+        "ToolTipBase": "#E1E1E6",
+        "ToolTipText": "#E1E1E6",
+        "Window": "#191622",
+        "WindowText": "#E1E1E6",
+        "fadeAmount": 0,
+        "fadeColor": "#000000"
+    },
+    "name": "Omni",
+    "widgets": "Fusion"
+}
